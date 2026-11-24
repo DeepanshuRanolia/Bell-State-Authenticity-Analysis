@@ -12,25 +12,6 @@ This project investigates and compares three approaches for characterising the a
 
 The project studies how these measures respond to noise and how effectively they distinguish ideal and imperfect Bell states.
 
-## Bell States
-
-The four maximally entangled two-qubit Bell states are
-
-\[
-|\Phi^+\rangle=\frac{|00\rangle+|11\rangle}{\sqrt{2}}
-\]
-
-\[
-|\Phi^-\rangle=\frac{|00\rangle-|11\rangle}{\sqrt{2}}
-\]
-
-\[
-|\Psi^+\rangle=\frac{|01\rangle+|10\rangle}{\sqrt{2}}
-\]
-
-\[
-|\Psi^-\rangle=\frac{|01\rangle-|10\rangle}{\sqrt{2}}
-\]
 
 ## Project Objectives
 
@@ -72,7 +53,6 @@ where \(p\) controls the contribution of the ideal Bell state.
 
 ## Project Structure
 
-The project is organised into modules for Bell-state preparation, CHSH analysis, quantum state tomography, visibility analysis, noise modelling, comparison and results.
 
 ```text
 Bell-State-Authenticity-Analysis/
