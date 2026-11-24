@@ -78,7 +78,7 @@ Bell-State-Authenticity-Analysis/
 └── README.md
 ```
 
-*The structure above is a suggested organisation; adjust it to match the files actually included in the repository.*
+
 
 ## Installation
 
